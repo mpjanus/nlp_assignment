@@ -1,0 +1,15 @@
+* stemming vs lemmatization
+* commonly used stemming:  Porter's algorithm (Porter, 1980)
+  http://www.tartarus.org/~martin/PorterStemmer/
+* Dutch stemmer:
+  http://www.cs.ru.nl/~kraaijw/pubs/Biblio/papers/kraaij94porters.pdf
+  http://snowball.tartarus.org/algorithms/dutch/stemmer.html
+* NER = Named Entity Recognition  (form of information extraction, categorizing the words)
+  http://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/
+* Common NER categories: LOC (location), PER (persons), ORG (organisations), 
+* Alpino Dutch Treebank [ download | source ] 
+id: alpino; size: 2797255; author: ; copyright: ; license: Distributed with permission of Gertjan van Noord;
+
+* Good tutorial:
+  https://stackabuse.com/text-classification-with-python-and-scikit-learn/
+  
